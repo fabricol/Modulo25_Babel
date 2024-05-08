@@ -21,5 +21,6 @@ Aula sobre as importantes funções do JavaScript:</br>
 *Filter*</br>
 *Reduce*</br>
 
+*foi adicionada o --watch para que não seja necessssário rodar o babel todas as vezes*
 
 
